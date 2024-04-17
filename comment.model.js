@@ -1,1 +1,1 @@
-console.log("add comment model");
+console.log("update comment model");
