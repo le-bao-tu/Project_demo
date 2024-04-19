@@ -1,0 +1,1 @@
+console.log("ad dproduct_images model");
