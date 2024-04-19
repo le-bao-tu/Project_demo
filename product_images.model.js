@@ -1,1 +1,1 @@
-console.log("ad dproduct_images model");
+console.log("update dproduct_images model");
