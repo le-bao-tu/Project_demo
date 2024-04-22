@@ -1,1 +1,1 @@
-console.log("add model_detail");
+console.log("update model_detail.js");
