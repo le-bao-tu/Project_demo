@@ -1,0 +1,1 @@
+console.log("add model_detail");
