@@ -1,1 +1,1 @@
-console.log("add model brand");
+console.log("update model brand");
